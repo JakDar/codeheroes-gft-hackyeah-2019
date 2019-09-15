@@ -1,0 +1,6 @@
+[submodule "gft-ner-service"]
+	path = gft-ner-service
+	url = git@github.com:JakDar/gft-ner-service.git
+[submodule "hackyeah-gft-proxy"]
+	path = hackyeah-gft-proxy
+	url = git@github.com:JakDar/hackyeah-gft-proxy.git
