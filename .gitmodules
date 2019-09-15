@@ -4,3 +4,6 @@
 [submodule "hackyeah-gft-proxy"]
 	path = hackyeah-gft-proxy
 	url = git@github.com:JakDar/hackyeah-gft-proxy.git
+[submodule "gf-application"]
+	path = gf-application
+	url = git@github.com:JakDar/gf-application.git
